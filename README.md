@@ -1,5 +1,5 @@
 # claude-skills
-A collection of skills (structured instruction files) for use with Claude: structured instruction files that teach Claude how to handle specific tasks consistently across conversations.
+A collection of structured instruction files (aka skills) that teach Claude how to handle specific tasks consistently across conversations.
 
 ## Files
 Each skill has two files:

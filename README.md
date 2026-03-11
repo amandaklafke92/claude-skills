@@ -14,4 +14,4 @@ Each skill has two files:
 3. Click **"+"** and select **Upload a skill**
 4. Upload the ZIP file and toggle it on
 
-Not familiar with GitHub? Just message me and I'll send you the file directly
+Not familiar with GitHub? [Message me on LinkedIn](https://www.linkedin.com/in/amanda-esnaola/) and I'll send you the file directly.
